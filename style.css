@@ -13,7 +13,7 @@ body{
     padding: 0px;
 }
 .principal{  
-    background-image: url("imagens/Background.png");
+    background-image: url("Background.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
